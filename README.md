@@ -22,6 +22,13 @@ Developed a comprehensive hospital management system using Flask and Kivy for th
 </p>
 
 ---
+<h3 align="center">Main Screen</h3>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3272e35d-dee6-46d6-8692-07f1ce7227b5" alt="image"/>
+</p>
+
+---
 <h3 align="center">Adding Patient Screen</h3>
 
 <p align="center">
@@ -46,7 +53,7 @@ Developed a comprehensive hospital management system using Flask and Kivy for th
 <h3 align="center">Display Patient Details Screen</h3>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/25e28280-4c73-45c4-9b80-3d72657154e9" alt="image"/>
+  <img src="https://github.com/user-attachments/assets/c2160f40-57bd-4bdf-aeb4-3b55108843bb" alt="image"/>
 </p>
 
 ---
